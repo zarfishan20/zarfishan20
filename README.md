@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zarfishan20
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning full stack web development.
+- 👀 I’m interested in front end web development 
+- 🌱 I’m currently learning Javascript, python and tailwind (CSS Framework).
 - 📫 How to reach me zf.ali@hotmail.com 
 
 <!---
